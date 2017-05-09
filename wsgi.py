@@ -118,4 +118,4 @@ api.add_resource(DataWithin, '/ws/data/within')
 
 @application.route('/')
 def index():
-    return 'Welcome to the National Parks data service where we spare no expense.'
+    return 'Welcome to the National Parks data service where we spare no expense. For real.'
